@@ -12,7 +12,7 @@ Per supportare operazioni CRUD e simulare scenari realistici, il sistema verrà 
 ## 🎯 Obiettivi del progetto
 - Modellare un database NoSQL con più collection correlate
 - Implementare operazioni CRUD su entità dinamiche (utenti e recensioni)
-- Realizzare query e join tra collection (tramite aggregation pipeline)
+- Realizzare query e join tra collection 
 - Gestire indici per migliorare le prestazioni
 - Analizzare le performance con benchmark
 - Fornire una semplice interfaccia utente per l’interazione
@@ -25,7 +25,7 @@ Dataset principale:
   https://www.kaggle.com/datasets/nikdavis/steam-store-games
 
 Il dataset verrà preprocessato per:
-- normalizzare campi multi-valore (es. generi, piattaforme)
+- convertire i campi multi-valore in array/documenti coerenti con MongoDB
 - gestire valori mancanti
 - uniformare i tipi di dato
 
@@ -34,7 +34,7 @@ Il dataset verrà preprocessato per:
 ## ⚙️ Tecnologie previste
 - MongoDB
 - Python (per preprocessing e import dati)
-- Backend: da definire
+- Backend: Python(framework applicativo da definire)
 - Frontend: interfaccia web minimale
 
 ---
@@ -45,13 +45,14 @@ Il dataset verrà preprocessato per:
 - `docs/` → documentazione del progetto  
 - `data/raw/` → dataset originale  
 - `data/processed/` → dati trasformati  
-- `data/synthetic/` → dati generati  
 - `scripts/` → script di import e benchmark  
-- `sql/` → schema, query e indici  
+- `src/queries/` → schema, query e indici  
 
 
 ---
 
 ## 🚧 Stato del progetto
-Setup iniziale completato.  
-Prossimi passi: analisi dataset e progettazione schema.
+- Setup iniziale della repository completato
+- Dataset Steam acquisito e organizzato nella struttura dati
+- In corso: analisi e preprocessing del dataset
+- Prossimi passi: definizione del modello MongoDB, import dei dati e progettazione delle operazioni CRUD

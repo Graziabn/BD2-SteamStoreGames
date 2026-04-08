@@ -1,0 +1,3300 @@
+[
+  {
+    "_id": "ffa628d4-45de-4c06-9a9b-47d9a2378be0",
+    "username": "sara.rossi",
+    "email": "sara.rossi@yahoo.com",
+    "display_name": "Sara Rossi",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-03-24"
+  },
+  {
+    "_id": "1537896c-dcba-46b0-b464-6fcf517356cd",
+    "username": "sara.lombardi",
+    "email": "sara.lombardi@gmail.com",
+    "display_name": "Sara Lombardi",
+    "favorite_genres": [
+      "Indie",
+      "Action",
+      "Casual"
+    ],
+    "created_at": "2024-02-07"
+  },
+  {
+    "_id": "c4ec8f67-0c3e-4f0f-8508-5cf290ffada2",
+    "username": "elena.barbieri",
+    "email": "elena.barbieri@example.com",
+    "display_name": "Elena Barbieri",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-12-21"
+  },
+  {
+    "_id": "24386ee7-3ef5-4e29-a4e0-b851ba800d27",
+    "username": "alice.giordano",
+    "email": "alice.giordano@outlook.com",
+    "display_name": "Alice Giordano",
+    "favorite_genres": [
+      "Strategy",
+      "Indie"
+    ],
+    "created_at": "2024-01-25"
+  },
+  {
+    "_id": "4876449d-7657-49c7-9afe-4d2e1b463d6f",
+    "username": "martina.giordano",
+    "email": "martina.giordano@yahoo.com",
+    "display_name": "Martina Giordano",
+    "favorite_genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "created_at": "2024-06-04"
+  },
+  {
+    "_id": "6498bd37-17ce-4639-a830-60fac94946b3",
+    "username": "giulia.costa",
+    "email": "giulia.costa@gmail.com",
+    "display_name": "Giulia Costa",
+    "favorite_genres": [
+      "Sports",
+      "Strategy"
+    ],
+    "created_at": "2024-05-26"
+  },
+  {
+    "_id": "20c89bc4-d58f-4800-8841-efcd724769a9",
+    "username": "marco.rinaldi",
+    "email": "marco.rinaldi@example.com",
+    "display_name": "Marco Rinaldi",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-02-18"
+  },
+  {
+    "_id": "bf5ccd03-e8ff-42eb-8b7a-c05086bfb20e",
+    "username": "chiara.esposito",
+    "email": "chiara.esposito@yahoo.com",
+    "display_name": "Chiara Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "Sports",
+      "Action"
+    ],
+    "created_at": "2024-01-22"
+  },
+  {
+    "_id": "b24a79aa-38b5-4dda-ae36-8ebf200ee882",
+    "username": "elena.conti",
+    "email": "elena.conti@gmail.com",
+    "display_name": "Elena Conti",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-07-09"
+  },
+  {
+    "_id": "dc8a8045-6046-4a80-b2f7-2f9211159b1b",
+    "username": "andrea.mancini",
+    "email": "andrea.mancini@outlook.com",
+    "display_name": "Andrea Mancini",
+    "favorite_genres": [
+      "Sports",
+      "Adventure"
+    ],
+    "created_at": "2024-11-09"
+  },
+  {
+    "_id": "5fd87974-6d4c-4628-a736-e8648a37b89d",
+    "username": "giulia.esposito",
+    "email": "giulia.esposito@outlook.com",
+    "display_name": "Giulia Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "Adventure",
+      "Casual"
+    ],
+    "created_at": "2024-07-09"
+  },
+  {
+    "_id": "27ca9b9a-9504-47ab-a32a-9ebc62ed857c",
+    "username": "alice.bruno",
+    "email": "alice.bruno@yahoo.com",
+    "display_name": "Alice Bruno",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-01-26"
+  },
+  {
+    "_id": "1868080c-9b08-41cb-b339-0b18c8bbe347",
+    "username": "matteo.costa",
+    "email": "matteo.costa@yahoo.com",
+    "display_name": "Matteo Costa",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-10-23"
+  },
+  {
+    "_id": "910ea65c-ab78-4e32-82eb-db1acff9074d",
+    "username": "matteo.greco",
+    "email": "matteo.greco@hotmail.com",
+    "display_name": "Matteo Greco",
+    "favorite_genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "created_at": "2024-05-05"
+  },
+  {
+    "_id": "b8395b6c-80f1-4edc-9ab7-08766ead4d1b",
+    "username": "elena.lombardi",
+    "email": "elena.lombardi@example.com",
+    "display_name": "Elena Lombardi",
+    "favorite_genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "created_at": "2024-07-12"
+  },
+  {
+    "_id": "8626a323-4139-4cbf-878b-d7c0f31d8f9f",
+    "username": "elena.ricci",
+    "email": "elena.ricci@example.com",
+    "display_name": "Elena Ricci",
+    "favorite_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-01-28"
+  },
+  {
+    "_id": "c4a906cf-1c3d-4410-b5c8-255458cc3637",
+    "username": "sara.ricci",
+    "email": "sara.ricci@outlook.com",
+    "display_name": "Sara Ricci",
+    "favorite_genres": [
+      "Indie",
+      "Strategy",
+      "Action"
+    ],
+    "created_at": "2024-07-13"
+  },
+  {
+    "_id": "d1339f2a-1a08-467b-a326-caccacdf0bee",
+    "username": "beatrice.rinaldi",
+    "email": "beatrice.rinaldi@example.com",
+    "display_name": "Beatrice Rinaldi",
+    "favorite_genres": [
+      "Action",
+      "Sports"
+    ],
+    "created_at": "2024-12-04"
+  },
+  {
+    "_id": "079efe5f-d62d-4e9a-9551-c36f62e2ba42",
+    "username": "alice.gallo",
+    "email": "alice.gallo@yahoo.com",
+    "display_name": "Alice Gallo",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-07-06"
+  },
+  {
+    "_id": "19fdf687-a593-47c5-9f55-23a5fa412e86",
+    "username": "andrea.rossi",
+    "email": "andrea.rossi@yahoo.com",
+    "display_name": "Andrea Rossi",
+    "favorite_genres": [
+      "RPG",
+      "Strategy",
+      "Action"
+    ],
+    "created_at": "2024-11-10"
+  },
+  {
+    "_id": "04a831b7-befd-4d77-9fe3-35b887938e04",
+    "username": "giorgio.esposito",
+    "email": "giorgio.esposito@outlook.com",
+    "display_name": "Giorgio Esposito",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-03-18"
+  },
+  {
+    "_id": "0fca2fec-4f22-425d-8621-6187df136788",
+    "username": "giorgio.rossi",
+    "email": "giorgio.rossi@example.com",
+    "display_name": "Giorgio Rossi",
+    "favorite_genres": [
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-02-12"
+  },
+  {
+    "_id": "ba78eefd-2f6e-404b-8f84-973e2a5df553",
+    "username": "chiara.bruno",
+    "email": "chiara.bruno@gmail.com",
+    "display_name": "Chiara Bruno",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-02-24"
+  },
+  {
+    "_id": "ec335cd0-37f1-4421-a8da-f9881dee55e7",
+    "username": "sofia.romano",
+    "email": "sofia.romano@example.com",
+    "display_name": "Sofia Romano",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-11-16"
+  },
+  {
+    "_id": "4ed39f7a-5c64-4935-baf2-f15eed563a36",
+    "username": "alice.marino",
+    "email": "alice.marino@yahoo.com",
+    "display_name": "Alice Marino",
+    "favorite_genres": [
+      "Indie",
+      "Adventure",
+      "Strategy"
+    ],
+    "created_at": "2024-12-23"
+  },
+  {
+    "_id": "c0596e01-6c4a-4d82-9a67-112169e61592",
+    "username": "davide.conti",
+    "email": "davide.conti@hotmail.com",
+    "display_name": "Davide Conti",
+    "favorite_genres": [
+      "Sports",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-08-04"
+  },
+  {
+    "_id": "2ed5cac1-0e84-4b2f-9d9f-f8d2d88d5cb4",
+    "username": "elena.bruno",
+    "email": "elena.bruno@gmail.com",
+    "display_name": "Elena Bruno",
+    "favorite_genres": [
+      "Action",
+      "Strategy"
+    ],
+    "created_at": "2024-09-08"
+  },
+  {
+    "_id": "55c6dcf5-9eba-49f5-8e1d-c6294c6b43bc",
+    "username": "stefano.bruno",
+    "email": "stefano.bruno@gmail.com",
+    "display_name": "Stefano Bruno",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-04-03"
+  },
+  {
+    "_id": "1a2361bb-4b8f-42e4-ab34-0489978b9d01",
+    "username": "marco.deluca",
+    "email": "marco.deluca@gmail.com",
+    "display_name": "Marco De Luca",
+    "favorite_genres": [
+      "Simulation",
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-08-07"
+  },
+  {
+    "_id": "12b31744-d588-42d0-a91f-9c4a91dc811a",
+    "username": "alice.ricci",
+    "email": "alice.ricci@example.com",
+    "display_name": "Alice Ricci",
+    "favorite_genres": [
+      "Casual",
+      "Adventure",
+      "Simulation"
+    ],
+    "created_at": "2024-07-07"
+  },
+  {
+    "_id": "bc70390d-762b-4a74-98c5-ef5c8f01dde8",
+    "username": "sara.colombo",
+    "email": "sara.colombo@hotmail.com",
+    "display_name": "Sara Colombo",
+    "favorite_genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "created_at": "2024-08-28"
+  },
+  {
+    "_id": "0dc996a2-22c3-4598-ae60-c67e48f93787",
+    "username": "marco.colombo",
+    "email": "marco.colombo@gmail.com",
+    "display_name": "Marco Colombo",
+    "favorite_genres": [
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-02-08"
+  },
+  {
+    "_id": "6fb167e7-953a-4809-9be5-af9d5c0d8bdf",
+    "username": "davide.greco",
+    "email": "davide.greco@example.com",
+    "display_name": "Davide Greco",
+    "favorite_genres": [
+      "RPG",
+      "Simulation"
+    ],
+    "created_at": "2024-03-09"
+  },
+  {
+    "_id": "8c3b0f95-e471-4b69-8b4a-61b53a92291d",
+    "username": "andrea.bruno",
+    "email": "andrea.bruno@gmail.com",
+    "display_name": "Andrea Bruno",
+    "favorite_genres": [
+      "Adventure",
+      "Action"
+    ],
+    "created_at": "2024-11-18"
+  },
+  {
+    "_id": "e3029025-ab9b-425d-890a-d4d7b58314b2",
+    "username": "luca.romano",
+    "email": "luca.romano@outlook.com",
+    "display_name": "Luca Romano",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-08-16"
+  },
+  {
+    "_id": "9f4e4c20-de80-4049-88a7-901e234086c7",
+    "username": "davide.costa",
+    "email": "davide.costa@gmail.com",
+    "display_name": "Davide Costa",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-01-13"
+  },
+  {
+    "_id": "01ebb049-9546-4e9e-af0a-82c9e0898a45",
+    "username": "federico.rinaldi",
+    "email": "federico.rinaldi@yahoo.com",
+    "display_name": "Federico Rinaldi",
+    "favorite_genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "created_at": "2024-04-10"
+  },
+  {
+    "_id": "8281d92e-5e95-4ea2-812a-5200f0b1dd49",
+    "username": "davide.bianchi",
+    "email": "davide.bianchi@example.com",
+    "display_name": "Davide Bianchi",
+    "favorite_genres": [
+      "Action",
+      "Sports",
+      "RPG"
+    ],
+    "created_at": "2024-01-02"
+  },
+  {
+    "_id": "aacd8add-6c5f-4a10-bb56-092e405be1e7",
+    "username": "stefano.moretti",
+    "email": "stefano.moretti@example.com",
+    "display_name": "Stefano Moretti",
+    "favorite_genres": [
+      "RPG",
+      "Action",
+      "Strategy"
+    ],
+    "created_at": "2024-02-28"
+  },
+  {
+    "_id": "90f08fd9-ab94-4903-86b7-46a65fc82589",
+    "username": "martina.romano",
+    "email": "martina.romano@example.com",
+    "display_name": "Martina Romano",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-07-04"
+  },
+  {
+    "_id": "19a030ef-1d09-45b5-87f2-b1fb74df4720",
+    "username": "stefano.bruno1",
+    "email": "stefano.bruno1@example.com",
+    "display_name": "Stefano Bruno",
+    "favorite_genres": [
+      "Action",
+      "Strategy",
+      "Casual"
+    ],
+    "created_at": "2024-07-22"
+  },
+  {
+    "_id": "c8c011d2-87c2-419d-a9f6-f33575062df7",
+    "username": "stefano.ferrari",
+    "email": "stefano.ferrari@example.com",
+    "display_name": "Stefano Ferrari",
+    "favorite_genres": [
+      "Strategy",
+      "Adventure"
+    ],
+    "created_at": "2024-11-23"
+  },
+  {
+    "_id": "516173db-d194-4cd6-acd6-a7b147534285",
+    "username": "matteo.bruno",
+    "email": "matteo.bruno@yahoo.com",
+    "display_name": "Matteo Bruno",
+    "favorite_genres": [
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-11-10"
+  },
+  {
+    "_id": "b76d2f71-77cd-4dfb-9a85-f9b06897d825",
+    "username": "andrea.deluca",
+    "email": "andrea.deluca@gmail.com",
+    "display_name": "Andrea De Luca",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-10-19"
+  },
+  {
+    "_id": "d8e3f470-da3c-46ea-92bc-b019a9c7e2b4",
+    "username": "sara.romano",
+    "email": "sara.romano@example.com",
+    "display_name": "Sara Romano",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-03-12"
+  },
+  {
+    "_id": "1b0bcea3-df62-40a2-a361-c3996a17517f",
+    "username": "giulia.bruno",
+    "email": "giulia.bruno@yahoo.com",
+    "display_name": "Giulia Bruno",
+    "favorite_genres": [
+      "RPG",
+      "Simulation"
+    ],
+    "created_at": "2024-09-23"
+  },
+  {
+    "_id": "aeedaec1-841f-40f4-9874-27f89f781a69",
+    "username": "chiara.esposito1",
+    "email": "chiara.esposito1@example.com",
+    "display_name": "Chiara Esposito",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-11-04"
+  },
+  {
+    "_id": "b5258852-756d-4cee-b303-8b53a95f7fb3",
+    "username": "alessandro.gallo",
+    "email": "alessandro.gallo@gmail.com",
+    "display_name": "Alessandro Gallo",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-05-10"
+  },
+  {
+    "_id": "eaf2a9c6-e599-4c16-8f3c-58292edad0f5",
+    "username": "beatrice.greco",
+    "email": "beatrice.greco@yahoo.com",
+    "display_name": "Beatrice Greco",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-09-16"
+  },
+  {
+    "_id": "df9e2c5b-8bf9-4a33-897f-df8ad5f159ae",
+    "username": "federico.bianchi",
+    "email": "federico.bianchi@gmail.com",
+    "display_name": "Federico Bianchi",
+    "favorite_genres": [
+      "Indie",
+      "Casual",
+      "RPG"
+    ],
+    "created_at": "2024-01-01"
+  },
+  {
+    "_id": "a8848394-c32e-4842-9eee-78f35de38063",
+    "username": "matteo.ricci",
+    "email": "matteo.ricci@yahoo.com",
+    "display_name": "Matteo Ricci",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-09-23"
+  },
+  {
+    "_id": "f58305be-ab5b-4c17-8ae3-cec78cdf45d6",
+    "username": "valentina.lombardi",
+    "email": "valentina.lombardi@gmail.com",
+    "display_name": "Valentina Lombardi",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-12-05"
+  },
+  {
+    "_id": "3d6d646f-3751-41f8-bb28-d44c2c5d31d2",
+    "username": "alice.bianchi",
+    "email": "alice.bianchi@yahoo.com",
+    "display_name": "Alice Bianchi",
+    "favorite_genres": [
+      "RPG",
+      "Simulation",
+      "Adventure"
+    ],
+    "created_at": "2024-01-10"
+  },
+  {
+    "_id": "7df65d60-57f2-4731-ad8a-5d1f76d632eb",
+    "username": "francesca.bianchi",
+    "email": "francesca.bianchi@yahoo.com",
+    "display_name": "Francesca Bianchi",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-11-04"
+  },
+  {
+    "_id": "38abe138-78cb-4bf6-8d66-2c8b1332d8d7",
+    "username": "francesca.lombardi",
+    "email": "francesca.lombardi@hotmail.com",
+    "display_name": "Francesca Lombardi",
+    "favorite_genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-03-14"
+  },
+  {
+    "_id": "066f4cbf-7c48-42d1-8f7a-dffed62f6274",
+    "username": "luca.marino",
+    "email": "luca.marino@yahoo.com",
+    "display_name": "Luca Marino",
+    "favorite_genres": [
+      "Simulation",
+      "RPG"
+    ],
+    "created_at": "2024-03-26"
+  },
+  {
+    "_id": "c45cdb31-10c0-47b2-8e75-20dd70ab7f36",
+    "username": "sara.costa",
+    "email": "sara.costa@gmail.com",
+    "display_name": "Sara Costa",
+    "favorite_genres": [
+      "Simulation",
+      "Adventure"
+    ],
+    "created_at": "2024-08-12"
+  },
+  {
+    "_id": "e364a039-8610-4b3c-9f45-888c9529afdb",
+    "username": "chiara.bruno1",
+    "email": "chiara.bruno1@outlook.com",
+    "display_name": "Chiara Bruno",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-07-11"
+  },
+  {
+    "_id": "2bfc80ec-0274-4530-bfe5-9d6fdadbfee6",
+    "username": "federico.romano",
+    "email": "federico.romano@yahoo.com",
+    "display_name": "Federico Romano",
+    "favorite_genres": [
+      "Indie",
+      "Sports"
+    ],
+    "created_at": "2024-09-11"
+  },
+  {
+    "_id": "ea3faeae-f448-4182-8538-50556652f8e9",
+    "username": "luca.colombo",
+    "email": "luca.colombo@yahoo.com",
+    "display_name": "Luca Colombo",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-01-04"
+  },
+  {
+    "_id": "04fb196f-ea70-4b8e-bfb2-faf8c3495e47",
+    "username": "beatrice.giordano",
+    "email": "beatrice.giordano@yahoo.com",
+    "display_name": "Beatrice Giordano",
+    "favorite_genres": [
+      "Sports",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-04"
+  },
+  {
+    "_id": "fec0e678-e7ea-4f38-a2d4-a5c65298c76d",
+    "username": "simone.ferrari",
+    "email": "simone.ferrari@outlook.com",
+    "display_name": "Simone Ferrari",
+    "favorite_genres": [
+      "Action",
+      "Sports"
+    ],
+    "created_at": "2024-07-01"
+  },
+  {
+    "_id": "43595f8e-4d1d-47ec-b61b-19fdf31045af",
+    "username": "giorgio.lombardi",
+    "email": "giorgio.lombardi@outlook.com",
+    "display_name": "Giorgio Lombardi",
+    "favorite_genres": [
+      "Indie",
+      "Action"
+    ],
+    "created_at": "2024-11-11"
+  },
+  {
+    "_id": "93f355f8-ecfe-47fa-9061-cddbdc1439ac",
+    "username": "beatrice.deluca",
+    "email": "beatrice.deluca@gmail.com",
+    "display_name": "Beatrice De Luca",
+    "favorite_genres": [
+      "Strategy",
+      "Casual",
+      "RPG"
+    ],
+    "created_at": "2024-11-14"
+  },
+  {
+    "_id": "0bdfa1f9-74de-46d4-bbba-4c894354275f",
+    "username": "matteo.costa1",
+    "email": "matteo.costa1@yahoo.com",
+    "display_name": "Matteo Costa",
+    "favorite_genres": [
+      "RPG",
+      "Adventure",
+      "Simulation"
+    ],
+    "created_at": "2024-11-13"
+  },
+  {
+    "_id": "9d11b3ea-b33a-496a-9a66-1e1c07b2df9b",
+    "username": "martina.esposito",
+    "email": "martina.esposito@example.com",
+    "display_name": "Martina Esposito",
+    "favorite_genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "created_at": "2024-01-10"
+  },
+  {
+    "_id": "9ee5722a-9416-4495-9551-9179e127c36b",
+    "username": "chiara.greco",
+    "email": "chiara.greco@hotmail.com",
+    "display_name": "Chiara Greco",
+    "favorite_genres": [
+      "Sports",
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-08-22"
+  },
+  {
+    "_id": "11936bdc-fccd-452d-8236-f114fbc479f1",
+    "username": "davide.barbieri",
+    "email": "davide.barbieri@hotmail.com",
+    "display_name": "Davide Barbieri",
+    "favorite_genres": [
+      "RPG",
+      "Sports",
+      "Action"
+    ],
+    "created_at": "2024-05-17"
+  },
+  {
+    "_id": "93ec42fb-5edc-4445-a958-ed5a53d629f4",
+    "username": "beatrice.deluca1",
+    "email": "beatrice.deluca1@gmail.com",
+    "display_name": "Beatrice De Luca",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-04-26"
+  },
+  {
+    "_id": "3d804faa-e451-4e1f-b3dc-fbf7126f8750",
+    "username": "davide.ricci",
+    "email": "davide.ricci@gmail.com",
+    "display_name": "Davide Ricci",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-08-20"
+  },
+  {
+    "_id": "71fd46db-a5d9-4b21-b487-198f379b69ca",
+    "username": "giulia.rinaldi",
+    "email": "giulia.rinaldi@hotmail.com",
+    "display_name": "Giulia Rinaldi",
+    "favorite_genres": [
+      "Simulation",
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-07-16"
+  },
+  {
+    "_id": "41e19348-1753-4be9-9745-10686b400cbc",
+    "username": "simone.bruno",
+    "email": "simone.bruno@outlook.com",
+    "display_name": "Simone Bruno",
+    "favorite_genres": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "created_at": "2024-07-08"
+  },
+  {
+    "_id": "3d143e36-5d8b-478d-a635-da75f17770dc",
+    "username": "martina.barbieri",
+    "email": "martina.barbieri@hotmail.com",
+    "display_name": "Martina Barbieri",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-02-15"
+  },
+  {
+    "_id": "d18e42b0-ec08-49fc-91b6-dba7a170f511",
+    "username": "alessandro.rinaldi",
+    "email": "alessandro.rinaldi@example.com",
+    "display_name": "Alessandro Rinaldi",
+    "favorite_genres": [
+      "Sports",
+      "Indie",
+      "Simulation"
+    ],
+    "created_at": "2024-10-27"
+  },
+  {
+    "_id": "defa9cb4-793e-4622-a166-ccd894b03f68",
+    "username": "giorgio.giordano",
+    "email": "giorgio.giordano@example.com",
+    "display_name": "Giorgio Giordano",
+    "favorite_genres": [
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-08-15"
+  },
+  {
+    "_id": "df713392-9fc9-47a1-a454-98faac1cec0c",
+    "username": "federico.bruno",
+    "email": "federico.bruno@yahoo.com",
+    "display_name": "Federico Bruno",
+    "favorite_genres": [
+      "Casual",
+      "Sports",
+      "Adventure"
+    ],
+    "created_at": "2024-05-15"
+  },
+  {
+    "_id": "f052b579-10d6-4a64-a98c-6a4b9431abbc",
+    "username": "giulia.conti",
+    "email": "giulia.conti@outlook.com",
+    "display_name": "Giulia Conti",
+    "favorite_genres": [
+      "Sports",
+      "RPG"
+    ],
+    "created_at": "2024-09-03"
+  },
+  {
+    "_id": "67aedde0-59cf-4d9e-bfd2-cf1e6cd107ac",
+    "username": "alessandro.ricci",
+    "email": "alessandro.ricci@outlook.com",
+    "display_name": "Alessandro Ricci",
+    "favorite_genres": [
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-04-03"
+  },
+  {
+    "_id": "e20cc92a-c274-4122-a8a8-75d6aa223956",
+    "username": "valentina.giordano",
+    "email": "valentina.giordano@yahoo.com",
+    "display_name": "Valentina Giordano",
+    "favorite_genres": [
+      "Casual",
+      "Simulation",
+      "Action"
+    ],
+    "created_at": "2024-04-27"
+  },
+  {
+    "_id": "a87a1ec0-6c3d-44ad-83c6-c92c081b38e2",
+    "username": "valentina.costa",
+    "email": "valentina.costa@example.com",
+    "display_name": "Valentina Costa",
+    "favorite_genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "created_at": "2024-07-16"
+  },
+  {
+    "_id": "ba63a4b3-2972-4e5d-939f-e618a5d574a4",
+    "username": "luca.mancini",
+    "email": "luca.mancini@yahoo.com",
+    "display_name": "Luca Mancini",
+    "favorite_genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "created_at": "2024-12-24"
+  },
+  {
+    "_id": "f2bb33e7-c1aa-4426-af5e-f8890a1db165",
+    "username": "alice.esposito",
+    "email": "alice.esposito@outlook.com",
+    "display_name": "Alice Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "RPG"
+    ],
+    "created_at": "2024-07-16"
+  },
+  {
+    "_id": "eecc48b4-8c57-47aa-bdd1-3dd2176a9cda",
+    "username": "luca.costa",
+    "email": "luca.costa@yahoo.com",
+    "display_name": "Luca Costa",
+    "favorite_genres": [
+      "Indie",
+      "Sports",
+      "Adventure"
+    ],
+    "created_at": "2024-08-05"
+  },
+  {
+    "_id": "308beb91-4a0f-485e-b935-701d75a59e2f",
+    "username": "beatrice.lombardi",
+    "email": "beatrice.lombardi@gmail.com",
+    "display_name": "Beatrice Lombardi",
+    "favorite_genres": [
+      "Action",
+      "Casual"
+    ],
+    "created_at": "2024-11-14"
+  },
+  {
+    "_id": "a406192b-f0c6-4b55-bc80-e279491b27cf",
+    "username": "alessandro.rinaldi1",
+    "email": "alessandro.rinaldi1@outlook.com",
+    "display_name": "Alessandro Rinaldi",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-07-11"
+  },
+  {
+    "_id": "a298ebeb-e246-4d81-9898-9cac1e6b58d5",
+    "username": "davide.rinaldi",
+    "email": "davide.rinaldi@yahoo.com",
+    "display_name": "Davide Rinaldi",
+    "favorite_genres": [
+      "Indie",
+      "RPG"
+    ],
+    "created_at": "2024-07-09"
+  },
+  {
+    "_id": "1027d196-6bc7-448a-86a0-33e07bdc59b5",
+    "username": "giulia.moretti",
+    "email": "giulia.moretti@gmail.com",
+    "display_name": "Giulia Moretti",
+    "favorite_genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "created_at": "2024-11-03"
+  },
+  {
+    "_id": "c402538e-ef08-4b1b-bfd3-f3354a3e6a8f",
+    "username": "marco.rossi",
+    "email": "marco.rossi@outlook.com",
+    "display_name": "Marco Rossi",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-10-05"
+  },
+  {
+    "_id": "0becc140-aa5b-4cef-8d11-738bf0a4ab1d",
+    "username": "elena.ricci1",
+    "email": "elena.ricci1@hotmail.com",
+    "display_name": "Elena Ricci",
+    "favorite_genres": [
+      "Adventure",
+      "Strategy",
+      "Casual"
+    ],
+    "created_at": "2024-08-23"
+  },
+  {
+    "_id": "9326665f-c7ca-4dad-8ed5-668a67dea3d5",
+    "username": "federico.mancini",
+    "email": "federico.mancini@outlook.com",
+    "display_name": "Federico Mancini",
+    "favorite_genres": [
+      "Adventure",
+      "Indie",
+      "Casual"
+    ],
+    "created_at": "2024-05-04"
+  },
+  {
+    "_id": "35bd5904-cb19-4756-a221-849b60a8a169",
+    "username": "stefano.rossi",
+    "email": "stefano.rossi@yahoo.com",
+    "display_name": "Stefano Rossi",
+    "favorite_genres": [
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "created_at": "2024-04-03"
+  },
+  {
+    "_id": "8159de67-b2ae-4e8b-911c-b3c2af43ad96",
+    "username": "stefano.bruno2",
+    "email": "stefano.bruno2@gmail.com",
+    "display_name": "Stefano Bruno",
+    "favorite_genres": [
+      "Strategy",
+      "Indie",
+      "Sports"
+    ],
+    "created_at": "2024-10-26"
+  },
+  {
+    "_id": "ef6dd652-7368-43cd-b62f-da1f4136bdd8",
+    "username": "sara.ferrari",
+    "email": "sara.ferrari@gmail.com",
+    "display_name": "Sara Ferrari",
+    "favorite_genres": [
+      "Indie",
+      "Sports"
+    ],
+    "created_at": "2024-06-03"
+  },
+  {
+    "_id": "6a653185-163c-40df-815f-db6073c135a6",
+    "username": "giorgio.deluca",
+    "email": "giorgio.deluca@gmail.com",
+    "display_name": "Giorgio De Luca",
+    "favorite_genres": [
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-07-12"
+  },
+  {
+    "_id": "ea776fd9-3617-4721-b3e1-a05793e00366",
+    "username": "andrea.ricci",
+    "email": "andrea.ricci@hotmail.com",
+    "display_name": "Andrea Ricci",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-10-26"
+  },
+  {
+    "_id": "5ec819c4-a961-4e2a-98ef-d1acd48d9bb1",
+    "username": "alice.moretti",
+    "email": "alice.moretti@hotmail.com",
+    "display_name": "Alice Moretti",
+    "favorite_genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "created_at": "2024-04-27"
+  },
+  {
+    "_id": "7dce1006-76a6-47ec-986d-0fb41a6a533e",
+    "username": "giulia.gallo",
+    "email": "giulia.gallo@hotmail.com",
+    "display_name": "Giulia Gallo",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-10-20"
+  },
+  {
+    "_id": "6e1c9a15-6c91-4d18-9848-58e26280e92a",
+    "username": "simone.deluca",
+    "email": "simone.deluca@gmail.com",
+    "display_name": "Simone De Luca",
+    "favorite_genres": [
+      "Sports",
+      "Adventure"
+    ],
+    "created_at": "2024-08-07"
+  },
+  {
+    "_id": "17f794b3-80ae-4b88-9909-031045d95e9d",
+    "username": "francesca.gallo",
+    "email": "francesca.gallo@yahoo.com",
+    "display_name": "Francesca Gallo",
+    "favorite_genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "created_at": "2024-01-17"
+  },
+  {
+    "_id": "834cdeeb-c0d4-4587-bfcc-b69626421db0",
+    "username": "davide.romano",
+    "email": "davide.romano@outlook.com",
+    "display_name": "Davide Romano",
+    "favorite_genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-04-23"
+  },
+  {
+    "_id": "a27bba2d-f4d7-4c0f-a55e-0a522becc6bf",
+    "username": "sofia.moretti",
+    "email": "sofia.moretti@hotmail.com",
+    "display_name": "Sofia Moretti",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-05-08"
+  },
+  {
+    "_id": "ca619de0-090a-4fb3-b741-8dafd7294653",
+    "username": "simone.bruno1",
+    "email": "simone.bruno1@yahoo.com",
+    "display_name": "Simone Bruno",
+    "favorite_genres": [
+      "Sports",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-12"
+  },
+  {
+    "_id": "ebd55b64-0d1a-4037-8fda-590673e47833",
+    "username": "valentina.lombardi1",
+    "email": "valentina.lombardi1@yahoo.com",
+    "display_name": "Valentina Lombardi",
+    "favorite_genres": [
+      "Casual",
+      "RPG"
+    ],
+    "created_at": "2024-05-09"
+  },
+  {
+    "_id": "5daf2d00-12d1-4e05-aa88-5a3af1a01641",
+    "username": "elena.colombo",
+    "email": "elena.colombo@outlook.com",
+    "display_name": "Elena Colombo",
+    "favorite_genres": [
+      "Adventure",
+      "Sports"
+    ],
+    "created_at": "2024-09-25"
+  },
+  {
+    "_id": "902d0f65-82d7-4de1-9998-d8f3e9d1326f",
+    "username": "martina.greco",
+    "email": "martina.greco@outlook.com",
+    "display_name": "Martina Greco",
+    "favorite_genres": [
+      "Casual",
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-10-25"
+  },
+  {
+    "_id": "b9de1be7-343e-4523-8042-4dd4539ad315",
+    "username": "giorgio.esposito1",
+    "email": "giorgio.esposito1@yahoo.com",
+    "display_name": "Giorgio Esposito",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-05-08"
+  },
+  {
+    "_id": "c6c2a4de-404b-45af-abe8-d09473266831",
+    "username": "francesca.marino",
+    "email": "francesca.marino@yahoo.com",
+    "display_name": "Francesca Marino",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-05-02"
+  },
+  {
+    "_id": "a07d0e58-ff89-4841-ae3c-51ed7f54c751",
+    "username": "marco.lombardi",
+    "email": "marco.lombardi@yahoo.com",
+    "display_name": "Marco Lombardi",
+    "favorite_genres": [
+      "RPG",
+      "Sports",
+      "Simulation"
+    ],
+    "created_at": "2024-02-28"
+  },
+  {
+    "_id": "6e700539-1bec-4c70-a0d6-d4672c0b5a29",
+    "username": "luca.ferrari",
+    "email": "luca.ferrari@yahoo.com",
+    "display_name": "Luca Ferrari",
+    "favorite_genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "created_at": "2024-06-06"
+  },
+  {
+    "_id": "e653b99a-6e01-4d32-976b-4b924d448aea",
+    "username": "marco.gallo",
+    "email": "marco.gallo@hotmail.com",
+    "display_name": "Marco Gallo",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-07-16"
+  },
+  {
+    "_id": "0871faf1-3db0-47e7-9744-82814889d64e",
+    "username": "giulia.ferrari",
+    "email": "giulia.ferrari@gmail.com",
+    "display_name": "Giulia Ferrari",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-10-10"
+  },
+  {
+    "_id": "2b871c90-5ff3-4cc7-8630-3a37d62ba16e",
+    "username": "giulia.bruno1",
+    "email": "giulia.bruno1@gmail.com",
+    "display_name": "Giulia Bruno",
+    "favorite_genres": [
+      "Indie",
+      "Strategy",
+      "Casual"
+    ],
+    "created_at": "2024-10-08"
+  },
+  {
+    "_id": "961e57cf-b225-4c41-97f5-d768481087f9",
+    "username": "giorgio.costa",
+    "email": "giorgio.costa@hotmail.com",
+    "display_name": "Giorgio Costa",
+    "favorite_genres": [
+      "Strategy",
+      "Indie"
+    ],
+    "created_at": "2024-10-14"
+  },
+  {
+    "_id": "d5b28b4a-6693-499c-bbbf-c7c44810f67f",
+    "username": "chiara.ferrari",
+    "email": "chiara.ferrari@example.com",
+    "display_name": "Chiara Ferrari",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-04-21"
+  },
+  {
+    "_id": "e33cef85-b452-43e6-9ddd-7db9b8887a97",
+    "username": "davide.gallo",
+    "email": "davide.gallo@gmail.com",
+    "display_name": "Davide Gallo",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-03-18"
+  },
+  {
+    "_id": "98bb2397-d8e7-4277-bfbe-b53dd7455804",
+    "username": "giulia.marino",
+    "email": "giulia.marino@gmail.com",
+    "display_name": "Giulia Marino",
+    "favorite_genres": [
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-10-16"
+  },
+  {
+    "_id": "ac3ab332-2669-4c34-a1c8-768c7b0a6294",
+    "username": "chiara.bianchi",
+    "email": "chiara.bianchi@outlook.com",
+    "display_name": "Chiara Bianchi",
+    "favorite_genres": [
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-08-03"
+  },
+  {
+    "_id": "a78d2fef-331b-435a-9766-30fd7f10f4fd",
+    "username": "elena.gallo",
+    "email": "elena.gallo@example.com",
+    "display_name": "Elena Gallo",
+    "favorite_genres": [
+      "Simulation",
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-09-08"
+  },
+  {
+    "_id": "c61028dd-cc4c-4508-80bd-fdfaffc3ae75",
+    "username": "alessandro.gallo1",
+    "email": "alessandro.gallo1@outlook.com",
+    "display_name": "Alessandro Gallo",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-03-26"
+  },
+  {
+    "_id": "2d59d995-93f6-4c50-be46-d8822562ab5a",
+    "username": "chiara.esposito2",
+    "email": "chiara.esposito2@example.com",
+    "display_name": "Chiara Esposito",
+    "favorite_genres": [
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-08-23"
+  },
+  {
+    "_id": "aa42fc98-80df-410a-8fa2-60a24f729825",
+    "username": "chiara.costa",
+    "email": "chiara.costa@yahoo.com",
+    "display_name": "Chiara Costa",
+    "favorite_genres": [
+      "Casual",
+      "Simulation",
+      "Action"
+    ],
+    "created_at": "2024-10-02"
+  },
+  {
+    "_id": "7bf69b28-b320-4530-8ef0-e0c41d9e0074",
+    "username": "valentina.deluca",
+    "email": "valentina.deluca@example.com",
+    "display_name": "Valentina De Luca",
+    "favorite_genres": [
+      "Action",
+      "Casual"
+    ],
+    "created_at": "2024-04-22"
+  },
+  {
+    "_id": "13f0ed9b-eb2c-4a4f-bf60-b179e7173a80",
+    "username": "stefano.ferrari1",
+    "email": "stefano.ferrari1@gmail.com",
+    "display_name": "Stefano Ferrari",
+    "favorite_genres": [
+      "Strategy",
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-03-16"
+  },
+  {
+    "_id": "f2331f6f-e03b-452c-8cfc-123588e69b68",
+    "username": "giorgio.rinaldi",
+    "email": "giorgio.rinaldi@yahoo.com",
+    "display_name": "Giorgio Rinaldi",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-11-27"
+  },
+  {
+    "_id": "aa1f5162-e574-425e-a24e-27b3d9f90e1e",
+    "username": "sofia.romano1",
+    "email": "sofia.romano1@hotmail.com",
+    "display_name": "Sofia Romano",
+    "favorite_genres": [
+      "Indie",
+      "RPG"
+    ],
+    "created_at": "2024-06-22"
+  },
+  {
+    "_id": "52a19b73-1159-4028-9b34-c386c7ee2d60",
+    "username": "sara.marino",
+    "email": "sara.marino@yahoo.com",
+    "display_name": "Sara Marino",
+    "favorite_genres": [
+      "Casual",
+      "RPG"
+    ],
+    "created_at": "2024-11-13"
+  },
+  {
+    "_id": "5c2dab22-1df3-4361-83b6-f3e37008290b",
+    "username": "alice.bianchi1",
+    "email": "alice.bianchi1@hotmail.com",
+    "display_name": "Alice Bianchi",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-05-11"
+  },
+  {
+    "_id": "c3d18210-356e-471e-b8cc-df6fa6af9518",
+    "username": "sara.costa1",
+    "email": "sara.costa1@example.com",
+    "display_name": "Sara Costa",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-07-02"
+  },
+  {
+    "_id": "bcc3231d-3930-414c-8432-c617160b0027",
+    "username": "davide.barbieri1",
+    "email": "davide.barbieri1@yahoo.com",
+    "display_name": "Davide Barbieri",
+    "favorite_genres": [
+      "Casual",
+      "Sports",
+      "Simulation"
+    ],
+    "created_at": "2024-01-07"
+  },
+  {
+    "_id": "ac8432f3-678b-4850-b92a-9c5f37581806",
+    "username": "federico.lombardi",
+    "email": "federico.lombardi@outlook.com",
+    "display_name": "Federico Lombardi",
+    "favorite_genres": [
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-08-04"
+  },
+  {
+    "_id": "2fc3c2ff-2a76-4daa-ae31-da8ff0994da2",
+    "username": "luca.esposito",
+    "email": "luca.esposito@outlook.com",
+    "display_name": "Luca Esposito",
+    "favorite_genres": [
+      "RPG",
+      "Casual",
+      "Strategy"
+    ],
+    "created_at": "2024-01-18"
+  },
+  {
+    "_id": "e0ab4bb8-e79a-46fd-b09a-b2c6051664f2",
+    "username": "valentina.romano",
+    "email": "valentina.romano@outlook.com",
+    "display_name": "Valentina Romano",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-02-21"
+  },
+  {
+    "_id": "66e1a480-08a0-4cf6-9451-69652e936c84",
+    "username": "alessandro.moretti",
+    "email": "alessandro.moretti@yahoo.com",
+    "display_name": "Alessandro Moretti",
+    "favorite_genres": [
+      "Strategy",
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-08-08"
+  },
+  {
+    "_id": "8ab14e8c-07fa-44a7-94df-fc2b3e2b0824",
+    "username": "andrea.lombardi",
+    "email": "andrea.lombardi@outlook.com",
+    "display_name": "Andrea Lombardi",
+    "favorite_genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-24"
+  },
+  {
+    "_id": "b347b9d9-0f5c-4b27-b424-5bfdc5c7da49",
+    "username": "alessandro.romano",
+    "email": "alessandro.romano@yahoo.com",
+    "display_name": "Alessandro Romano",
+    "favorite_genres": [
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-09-09"
+  },
+  {
+    "_id": "20b90a38-e659-47b4-a9a2-7ff7a04fed85",
+    "username": "luca.conti",
+    "email": "luca.conti@yahoo.com",
+    "display_name": "Luca Conti",
+    "favorite_genres": [
+      "Casual",
+      "Indie",
+      "Adventure"
+    ],
+    "created_at": "2024-08-18"
+  },
+  {
+    "_id": "24fd18e9-2708-4f3c-a841-814ac0ee4c7c",
+    "username": "sofia.mancini",
+    "email": "sofia.mancini@yahoo.com",
+    "display_name": "Sofia Mancini",
+    "favorite_genres": [
+      "Indie",
+      "Simulation",
+      "RPG"
+    ],
+    "created_at": "2024-04-23"
+  },
+  {
+    "_id": "68dbc3ed-0a36-4f60-8dba-486961d58c0b",
+    "username": "elena.ferrari",
+    "email": "elena.ferrari@hotmail.com",
+    "display_name": "Elena Ferrari",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-01-11"
+  },
+  {
+    "_id": "3892141d-1460-4050-83a0-112f91278f1e",
+    "username": "sofia.costa",
+    "email": "sofia.costa@hotmail.com",
+    "display_name": "Sofia Costa",
+    "favorite_genres": [
+      "RPG",
+      "Simulation",
+      "Action"
+    ],
+    "created_at": "2024-03-17"
+  },
+  {
+    "_id": "f3c9bbe3-8f1a-4c1b-b215-d0e3dbb7b4dc",
+    "username": "stefano.deluca",
+    "email": "stefano.deluca@gmail.com",
+    "display_name": "Stefano De Luca",
+    "favorite_genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "created_at": "2024-08-01"
+  },
+  {
+    "_id": "f84d8bf9-8f60-41b6-b449-a0f0b50518b6",
+    "username": "alessandro.giordano",
+    "email": "alessandro.giordano@outlook.com",
+    "display_name": "Alessandro Giordano",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-05-11"
+  },
+  {
+    "_id": "ed68219c-e890-4f4f-aff7-150d217b16d3",
+    "username": "beatrice.costa",
+    "email": "beatrice.costa@gmail.com",
+    "display_name": "Beatrice Costa",
+    "favorite_genres": [
+      "Indie",
+      "RPG"
+    ],
+    "created_at": "2024-11-23"
+  },
+  {
+    "_id": "7d41a9d3-027a-41af-aaab-fe7259139efb",
+    "username": "sofia.lombardi",
+    "email": "sofia.lombardi@gmail.com",
+    "display_name": "Sofia Lombardi",
+    "favorite_genres": [
+      "Adventure",
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-11-10"
+  },
+  {
+    "_id": "a5a4692a-1f3c-4c6d-ae1a-fe30a00d52c5",
+    "username": "elena.romano",
+    "email": "elena.romano@hotmail.com",
+    "display_name": "Elena Romano",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-08-06"
+  },
+  {
+    "_id": "255e39d3-c407-434b-b190-cd42ccf2f7f8",
+    "username": "chiara.rossi",
+    "email": "chiara.rossi@gmail.com",
+    "display_name": "Chiara Rossi",
+    "favorite_genres": [
+      "Action",
+      "RPG"
+    ],
+    "created_at": "2024-06-12"
+  },
+  {
+    "_id": "0045fca1-af4a-4d28-901f-d2576775fe26",
+    "username": "valentina.ricci",
+    "email": "valentina.ricci@outlook.com",
+    "display_name": "Valentina Ricci",
+    "favorite_genres": [
+      "Indie",
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-03-06"
+  },
+  {
+    "_id": "ccff8044-ce4f-4bc1-8d15-c299cdf451ad",
+    "username": "martina.romano1",
+    "email": "martina.romano1@example.com",
+    "display_name": "Martina Romano",
+    "favorite_genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "created_at": "2024-10-05"
+  },
+  {
+    "_id": "ba4996bc-d4ad-46ef-8cbb-d094181777d7",
+    "username": "elena.rinaldi",
+    "email": "elena.rinaldi@yahoo.com",
+    "display_name": "Elena Rinaldi",
+    "favorite_genres": [
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-01-26"
+  },
+  {
+    "_id": "9135aff6-9a7e-4d0a-9cbb-3ceabd04d1a2",
+    "username": "andrea.conti",
+    "email": "andrea.conti@example.com",
+    "display_name": "Andrea Conti",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-08-12"
+  },
+  {
+    "_id": "9ab9805c-0147-4c68-8273-4e0b909757c6",
+    "username": "stefano.conti",
+    "email": "stefano.conti@hotmail.com",
+    "display_name": "Stefano Conti",
+    "favorite_genres": [
+      "Strategy",
+      "Simulation",
+      "RPG"
+    ],
+    "created_at": "2024-04-13"
+  },
+  {
+    "_id": "c830ba4d-c487-413b-a5c2-50eefedae94c",
+    "username": "sofia.colombo",
+    "email": "sofia.colombo@outlook.com",
+    "display_name": "Sofia Colombo",
+    "favorite_genres": [
+      "Sports",
+      "Strategy"
+    ],
+    "created_at": "2024-05-23"
+  },
+  {
+    "_id": "a7b86aef-e0df-4a7d-9072-c3f728552ddb",
+    "username": "chiara.rossi1",
+    "email": "chiara.rossi1@hotmail.com",
+    "display_name": "Chiara Rossi",
+    "favorite_genres": [
+      "Action",
+      "Strategy"
+    ],
+    "created_at": "2024-11-25"
+  },
+  {
+    "_id": "06ddeca2-0273-4cc0-9cef-b4060ab25c88",
+    "username": "marco.esposito",
+    "email": "marco.esposito@hotmail.com",
+    "display_name": "Marco Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-06-08"
+  },
+  {
+    "_id": "71232ef5-ce13-4f28-abee-97091cf2345a",
+    "username": "davide.esposito",
+    "email": "davide.esposito@yahoo.com",
+    "display_name": "Davide Esposito",
+    "favorite_genres": [
+      "RPG",
+      "Sports",
+      "Action"
+    ],
+    "created_at": "2024-11-21"
+  },
+  {
+    "_id": "fe99dc1d-7e96-48ee-b5af-aa7a52ee0a00",
+    "username": "marco.conti",
+    "email": "marco.conti@hotmail.com",
+    "display_name": "Marco Conti",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-12-05"
+  },
+  {
+    "_id": "659584a0-9e96-4510-a3a1-1b875a9e78ac",
+    "username": "giulia.conti1",
+    "email": "giulia.conti1@yahoo.com",
+    "display_name": "Giulia Conti",
+    "favorite_genres": [
+      "Indie",
+      "Adventure",
+      "Casual"
+    ],
+    "created_at": "2024-03-26"
+  },
+  {
+    "_id": "5a176174-4c42-4664-886f-a9f9c0095f6d",
+    "username": "alice.mancini",
+    "email": "alice.mancini@example.com",
+    "display_name": "Alice Mancini",
+    "favorite_genres": [
+      "Strategy",
+      "Indie",
+      "Adventure"
+    ],
+    "created_at": "2024-05-27"
+  },
+  {
+    "_id": "d8da1cdd-9211-489c-9653-048c1ad09a73",
+    "username": "sofia.conti",
+    "email": "sofia.conti@yahoo.com",
+    "display_name": "Sofia Conti",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-02-05"
+  },
+  {
+    "_id": "dd15ced2-411c-4608-8a90-cb13e5d3164a",
+    "username": "elena.costa",
+    "email": "elena.costa@example.com",
+    "display_name": "Elena Costa",
+    "favorite_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-07-01"
+  },
+  {
+    "_id": "0ed38fbe-bb46-45a6-bcef-f8dd23253af5",
+    "username": "federico.lombardi1",
+    "email": "federico.lombardi1@gmail.com",
+    "display_name": "Federico Lombardi",
+    "favorite_genres": [
+      "Sports",
+      "Casual"
+    ],
+    "created_at": "2024-12-22"
+  },
+  {
+    "_id": "a9660b71-bdcb-4b97-be38-a2b53a7c62d2",
+    "username": "federico.ferrari",
+    "email": "federico.ferrari@hotmail.com",
+    "display_name": "Federico Ferrari",
+    "favorite_genres": [
+      "Sports",
+      "Action",
+      "Casual"
+    ],
+    "created_at": "2024-04-16"
+  },
+  {
+    "_id": "79c3bef6-63e0-443f-a117-6ec75ec75d83",
+    "username": "luca.esposito1",
+    "email": "luca.esposito1@example.com",
+    "display_name": "Luca Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "created_at": "2024-02-21"
+  },
+  {
+    "_id": "70a54544-c47f-4bdc-96ee-621ccdf423b8",
+    "username": "andrea.conti1",
+    "email": "andrea.conti1@hotmail.com",
+    "display_name": "Andrea Conti",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-01-02"
+  },
+  {
+    "_id": "8773452c-cfe7-49a4-9a94-2bd8bacd1759",
+    "username": "chiara.moretti",
+    "email": "chiara.moretti@gmail.com",
+    "display_name": "Chiara Moretti",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-09-05"
+  },
+  {
+    "_id": "0770397b-30cf-447a-8bdd-4438c3758de2",
+    "username": "simone.rinaldi",
+    "email": "simone.rinaldi@yahoo.com",
+    "display_name": "Simone Rinaldi",
+    "favorite_genres": [
+      "Indie",
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-12-05"
+  },
+  {
+    "_id": "f060d82a-3318-4926-afc3-c41fbdea258f",
+    "username": "valentina.colombo",
+    "email": "valentina.colombo@hotmail.com",
+    "display_name": "Valentina Colombo",
+    "favorite_genres": [
+      "Indie",
+      "RPG",
+      "Action"
+    ],
+    "created_at": "2024-12-12"
+  },
+  {
+    "_id": "7ecc8dc8-6406-4da2-9fc5-edb623e2c66f",
+    "username": "davide.rinaldi1",
+    "email": "davide.rinaldi1@hotmail.com",
+    "display_name": "Davide Rinaldi",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-02-22"
+  },
+  {
+    "_id": "d854e184-943f-497e-9a59-b6a78450efe2",
+    "username": "francesca.lombardi1",
+    "email": "francesca.lombardi1@yahoo.com",
+    "display_name": "Francesca Lombardi",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-05-07"
+  },
+  {
+    "_id": "8fc93fd4-1773-46ae-a150-749dac6ac7ab",
+    "username": "sara.rinaldi",
+    "email": "sara.rinaldi@gmail.com",
+    "display_name": "Sara Rinaldi",
+    "favorite_genres": [
+      "Simulation",
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-10-01"
+  },
+  {
+    "_id": "2d309dbb-c894-41d9-95a6-d9d6321e5f69",
+    "username": "marco.deluca1",
+    "email": "marco.deluca1@outlook.com",
+    "display_name": "Marco De Luca",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-02-27"
+  },
+  {
+    "_id": "3731ded3-0acc-4431-96f5-28fdaeee578f",
+    "username": "alice.greco",
+    "email": "alice.greco@example.com",
+    "display_name": "Alice Greco",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-06-25"
+  },
+  {
+    "_id": "9ef1dd59-2f84-4c53-8f66-8c9ee1adf2d1",
+    "username": "alessandro.esposito",
+    "email": "alessandro.esposito@gmail.com",
+    "display_name": "Alessandro Esposito",
+    "favorite_genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "created_at": "2024-09-09"
+  },
+  {
+    "_id": "06727456-1a41-4dee-aab4-6ef67373811f",
+    "username": "martina.colombo",
+    "email": "martina.colombo@gmail.com",
+    "display_name": "Martina Colombo",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-06-26"
+  },
+  {
+    "_id": "d78c65c2-fbbe-4380-89a8-6e2c0eef8b8d",
+    "username": "elena.ferrari1",
+    "email": "elena.ferrari1@yahoo.com",
+    "display_name": "Elena Ferrari",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-05-02"
+  },
+  {
+    "_id": "10673b13-18dd-4171-9b4b-b4f5ed14a541",
+    "username": "alessandro.giordano1",
+    "email": "alessandro.giordano1@example.com",
+    "display_name": "Alessandro Giordano",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-08-15"
+  },
+  {
+    "_id": "d76ee2d1-03e3-4c5f-ac29-53e63cba9cf2",
+    "username": "francesca.barbieri",
+    "email": "francesca.barbieri@example.com",
+    "display_name": "Francesca Barbieri",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-09-08"
+  },
+  {
+    "_id": "107dcbde-c8f2-4686-9d95-edf345d97fa0",
+    "username": "beatrice.bianchi",
+    "email": "beatrice.bianchi@example.com",
+    "display_name": "Beatrice Bianchi",
+    "favorite_genres": [
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-01-02"
+  },
+  {
+    "_id": "1fb571be-d131-4cb6-ae7b-c3be6bfa4c8b",
+    "username": "sofia.costa1",
+    "email": "sofia.costa1@hotmail.com",
+    "display_name": "Sofia Costa",
+    "favorite_genres": [
+      "Adventure",
+      "Simulation",
+      "Sports"
+    ],
+    "created_at": "2024-08-03"
+  },
+  {
+    "_id": "87ba752d-dbde-4b6c-b1f3-970a1375089f",
+    "username": "giulia.deluca",
+    "email": "giulia.deluca@example.com",
+    "display_name": "Giulia De Luca",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-03-09"
+  },
+  {
+    "_id": "a629c7df-22fd-42ca-a207-6db4befdca3c",
+    "username": "beatrice.ferrari",
+    "email": "beatrice.ferrari@example.com",
+    "display_name": "Beatrice Ferrari",
+    "favorite_genres": [
+      "Sports",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-10"
+  },
+  {
+    "_id": "a51884c2-e477-4465-9b82-a69b4af18724",
+    "username": "andrea.barbieri",
+    "email": "andrea.barbieri@example.com",
+    "display_name": "Andrea Barbieri",
+    "favorite_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-12-04"
+  },
+  {
+    "_id": "6e9f8748-048c-4e2e-ba7e-3d63742ad371",
+    "username": "alice.greco1",
+    "email": "alice.greco1@hotmail.com",
+    "display_name": "Alice Greco",
+    "favorite_genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "created_at": "2024-06-27"
+  },
+  {
+    "_id": "cbe03c4a-1acc-49fc-aa38-2613aa2d8ece",
+    "username": "andrea.costa",
+    "email": "andrea.costa@hotmail.com",
+    "display_name": "Andrea Costa",
+    "favorite_genres": [
+      "Adventure",
+      "RPG",
+      "Simulation"
+    ],
+    "created_at": "2024-06-22"
+  },
+  {
+    "_id": "330e7458-f46a-4331-9efe-0162f9c03379",
+    "username": "federico.mancini1",
+    "email": "federico.mancini1@outlook.com",
+    "display_name": "Federico Mancini",
+    "favorite_genres": [
+      "Casual",
+      "Action",
+      "Indie"
+    ],
+    "created_at": "2024-02-03"
+  },
+  {
+    "_id": "9e8df909-7389-45c9-8932-963fe54e2eb8",
+    "username": "valentina.colombo1",
+    "email": "valentina.colombo1@yahoo.com",
+    "display_name": "Valentina Colombo",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-10-18"
+  },
+  {
+    "_id": "d742eb2f-cf1a-4c08-863f-2906691aefde",
+    "username": "alice.deluca",
+    "email": "alice.deluca@gmail.com",
+    "display_name": "Alice De Luca",
+    "favorite_genres": [
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-11-25"
+  },
+  {
+    "_id": "8e75cd8c-b7a7-4f80-9200-ec31dd3d17d2",
+    "username": "valentina.bianchi",
+    "email": "valentina.bianchi@yahoo.com",
+    "display_name": "Valentina Bianchi",
+    "favorite_genres": [
+      "Strategy",
+      "RPG",
+      "Action"
+    ],
+    "created_at": "2024-10-17"
+  },
+  {
+    "_id": "37cd62c4-599a-4d68-9837-710fe9b7f692",
+    "username": "davide.ricci1",
+    "email": "davide.ricci1@hotmail.com",
+    "display_name": "Davide Ricci",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-06-28"
+  },
+  {
+    "_id": "c4fa10bc-db7a-4bde-8046-243dc5cb1549",
+    "username": "alice.mancini1",
+    "email": "alice.mancini1@gmail.com",
+    "display_name": "Alice Mancini",
+    "favorite_genres": [
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-07-28"
+  },
+  {
+    "_id": "3855d708-6fac-467a-bbc7-c9e275c383ba",
+    "username": "alice.esposito1",
+    "email": "alice.esposito1@example.com",
+    "display_name": "Alice Esposito",
+    "favorite_genres": [
+      "Action",
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-12-09"
+  },
+  {
+    "_id": "b14e7bb2-bbba-48ea-b99a-bd8c8b8aadde",
+    "username": "luca.marino1",
+    "email": "luca.marino1@yahoo.com",
+    "display_name": "Luca Marino",
+    "favorite_genres": [
+      "Strategy",
+      "RPG",
+      "Indie"
+    ],
+    "created_at": "2024-01-06"
+  },
+  {
+    "_id": "d295d5fb-189f-47a7-af21-3cdab0792c74",
+    "username": "alessandro.ferrari",
+    "email": "alessandro.ferrari@hotmail.com",
+    "display_name": "Alessandro Ferrari",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-12-21"
+  },
+  {
+    "_id": "d2479df4-8547-4249-8a2e-7ef000b236b0",
+    "username": "luca.romano1",
+    "email": "luca.romano1@example.com",
+    "display_name": "Luca Romano",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-07-15"
+  },
+  {
+    "_id": "1be9b57b-b004-499f-8ddd-947fec7a97ba",
+    "username": "matteo.marino",
+    "email": "matteo.marino@yahoo.com",
+    "display_name": "Matteo Marino",
+    "favorite_genres": [
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-10-20"
+  },
+  {
+    "_id": "5b4ccd69-d69e-4061-97e2-d6f302aa2717",
+    "username": "giulia.bianchi",
+    "email": "giulia.bianchi@outlook.com",
+    "display_name": "Giulia Bianchi",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-11-03"
+  },
+  {
+    "_id": "e6e77924-cdaf-4620-b24f-542ddc225810",
+    "username": "federico.rinaldi1",
+    "email": "federico.rinaldi1@hotmail.com",
+    "display_name": "Federico Rinaldi",
+    "favorite_genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "created_at": "2024-05-07"
+  },
+  {
+    "_id": "1518633b-2881-4ff3-a2f5-4ba9add47103",
+    "username": "giorgio.colombo",
+    "email": "giorgio.colombo@yahoo.com",
+    "display_name": "Giorgio Colombo",
+    "favorite_genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "created_at": "2024-11-22"
+  },
+  {
+    "_id": "5ff66d51-c2f7-48b4-8191-c543c44e8219",
+    "username": "stefano.moretti1",
+    "email": "stefano.moretti1@example.com",
+    "display_name": "Stefano Moretti",
+    "favorite_genres": [
+      "Strategy",
+      "Action",
+      "Adventure"
+    ],
+    "created_at": "2024-07-20"
+  },
+  {
+    "_id": "4b0e0476-4e1e-4b2b-ab66-0bcd1258dbd6",
+    "username": "marco.rossi1",
+    "email": "marco.rossi1@outlook.com",
+    "display_name": "Marco Rossi",
+    "favorite_genres": [
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-03-25"
+  },
+  {
+    "_id": "528db74a-fdb8-45a8-85d9-c1f138baaf7b",
+    "username": "federico.conti",
+    "email": "federico.conti@yahoo.com",
+    "display_name": "Federico Conti",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-08-24"
+  },
+  {
+    "_id": "406d8bc0-6ddb-43b4-8ee7-1fb37d681af3",
+    "username": "valentina.marino",
+    "email": "valentina.marino@outlook.com",
+    "display_name": "Valentina Marino",
+    "favorite_genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-27"
+  },
+  {
+    "_id": "95ce1044-d6d6-49ce-8ede-953bf48c4ba9",
+    "username": "francesca.romano",
+    "email": "francesca.romano@hotmail.com",
+    "display_name": "Francesca Romano",
+    "favorite_genres": [
+      "Action",
+      "Simulation",
+      "Casual"
+    ],
+    "created_at": "2024-08-03"
+  },
+  {
+    "_id": "2abef79d-b3b7-4f73-8bb8-262481194c32",
+    "username": "matteo.ferrari",
+    "email": "matteo.ferrari@hotmail.com",
+    "display_name": "Matteo Ferrari",
+    "favorite_genres": [
+      "Indie",
+      "Sports",
+      "Casual"
+    ],
+    "created_at": "2024-07-10"
+  },
+  {
+    "_id": "53d5b927-0646-45a5-9284-968aecb78f3c",
+    "username": "sara.costa2",
+    "email": "sara.costa2@gmail.com",
+    "display_name": "Sara Costa",
+    "favorite_genres": [
+      "RPG",
+      "Indie"
+    ],
+    "created_at": "2024-10-15"
+  },
+  {
+    "_id": "8778ee12-f858-4bfb-8ca8-596f0bafc4f0",
+    "username": "francesca.romano1",
+    "email": "francesca.romano1@hotmail.com",
+    "display_name": "Francesca Romano",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-07-19"
+  },
+  {
+    "_id": "8d131d68-6087-41c3-98ca-457c7249f5e8",
+    "username": "simone.barbieri",
+    "email": "simone.barbieri@gmail.com",
+    "display_name": "Simone Barbieri",
+    "favorite_genres": [
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-06-08"
+  },
+  {
+    "_id": "f74cb386-f425-44ba-b1d8-38091d0fba1d",
+    "username": "matteo.marino1",
+    "email": "matteo.marino1@gmail.com",
+    "display_name": "Matteo Marino",
+    "favorite_genres": [
+      "Adventure",
+      "Strategy",
+      "Indie"
+    ],
+    "created_at": "2024-04-25"
+  },
+  {
+    "_id": "33a3098e-123d-4012-8838-2cf1c03c983c",
+    "username": "francesca.mancini",
+    "email": "francesca.mancini@outlook.com",
+    "display_name": "Francesca Mancini",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-03-09"
+  },
+  {
+    "_id": "15aea687-a2a3-456a-8b39-2fe7adebe5f8",
+    "username": "davide.marino",
+    "email": "davide.marino@example.com",
+    "display_name": "Davide Marino",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-03-25"
+  },
+  {
+    "_id": "945e6748-e285-41a7-899a-f0241bdbfca9",
+    "username": "sofia.rinaldi",
+    "email": "sofia.rinaldi@example.com",
+    "display_name": "Sofia Rinaldi",
+    "favorite_genres": [
+      "Casual",
+      "Sports",
+      "Strategy"
+    ],
+    "created_at": "2024-11-21"
+  },
+  {
+    "_id": "e5aee50e-648e-44a0-83a2-2bd28f96f0c5",
+    "username": "beatrice.deluca2",
+    "email": "beatrice.deluca2@yahoo.com",
+    "display_name": "Beatrice De Luca",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-02-16"
+  },
+  {
+    "_id": "1ce4113f-1e69-44cd-baf4-36a6b95c0267",
+    "username": "andrea.conti2",
+    "email": "andrea.conti2@yahoo.com",
+    "display_name": "Andrea Conti",
+    "favorite_genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "created_at": "2024-02-10"
+  },
+  {
+    "_id": "11385d4f-ec77-4c39-ba44-90f67fd7190a",
+    "username": "andrea.rinaldi",
+    "email": "andrea.rinaldi@gmail.com",
+    "display_name": "Andrea Rinaldi",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-05-03"
+  },
+  {
+    "_id": "a47bd29c-5dc3-4960-a6e7-e6806dc514d1",
+    "username": "giulia.esposito1",
+    "email": "giulia.esposito1@example.com",
+    "display_name": "Giulia Esposito",
+    "favorite_genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-09-26"
+  },
+  {
+    "_id": "fa8f8edd-71c6-4a4a-a470-40e9a4c8da95",
+    "username": "marco.rinaldi1",
+    "email": "marco.rinaldi1@example.com",
+    "display_name": "Marco Rinaldi",
+    "favorite_genres": [
+      "Simulation",
+      "RPG",
+      "Strategy"
+    ],
+    "created_at": "2024-08-17"
+  },
+  {
+    "_id": "eeb00305-b31b-439a-a4cd-23fdc1d4124d",
+    "username": "alessandro.bianchi",
+    "email": "alessandro.bianchi@hotmail.com",
+    "display_name": "Alessandro Bianchi",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-12-03"
+  },
+  {
+    "_id": "751d923d-c807-4b11-878b-2d82771771da",
+    "username": "giorgio.marino",
+    "email": "giorgio.marino@gmail.com",
+    "display_name": "Giorgio Marino",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-08-17"
+  },
+  {
+    "_id": "21c166ed-6adc-498d-a26b-7d808d8b286f",
+    "username": "giorgio.esposito2",
+    "email": "giorgio.esposito2@outlook.com",
+    "display_name": "Giorgio Esposito",
+    "favorite_genres": [
+      "Sports",
+      "RPG"
+    ],
+    "created_at": "2024-07-14"
+  },
+  {
+    "_id": "ac55f03b-3bfe-4fcd-aac4-2f848a4e52d9",
+    "username": "matteo.esposito",
+    "email": "matteo.esposito@gmail.com",
+    "display_name": "Matteo Esposito",
+    "favorite_genres": [
+      "Sports",
+      "Action",
+      "RPG"
+    ],
+    "created_at": "2024-02-18"
+  },
+  {
+    "_id": "8e7d1ad4-9968-43b1-b636-40b48db15a52",
+    "username": "simone.conti",
+    "email": "simone.conti@yahoo.com",
+    "display_name": "Simone Conti",
+    "favorite_genres": [
+      "RPG",
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-10-22"
+  },
+  {
+    "_id": "1abd0f92-3a0c-4dcb-b078-4942962ced68",
+    "username": "alessandro.mancini",
+    "email": "alessandro.mancini@yahoo.com",
+    "display_name": "Alessandro Mancini",
+    "favorite_genres": [
+      "Indie",
+      "Adventure",
+      "Strategy"
+    ],
+    "created_at": "2024-12-03"
+  },
+  {
+    "_id": "8852d080-6ec6-4551-b99f-961ff72b9f2a",
+    "username": "chiara.lombardi",
+    "email": "chiara.lombardi@hotmail.com",
+    "display_name": "Chiara Lombardi",
+    "favorite_genres": [
+      "Sports",
+      "Indie",
+      "Adventure"
+    ],
+    "created_at": "2024-11-23"
+  },
+  {
+    "_id": "8938f0c7-325b-4c7a-8fa9-8647c387d4a6",
+    "username": "giorgio.romano",
+    "email": "giorgio.romano@hotmail.com",
+    "display_name": "Giorgio Romano",
+    "favorite_genres": [
+      "Sports",
+      "Action",
+      "RPG"
+    ],
+    "created_at": "2024-05-06"
+  },
+  {
+    "_id": "3a53a948-8e4d-4cf8-a57a-a6985e822132",
+    "username": "davide.deluca",
+    "email": "davide.deluca@hotmail.com",
+    "display_name": "Davide De Luca",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-03-05"
+  },
+  {
+    "_id": "8d3e9699-0238-4ae0-a330-ab707ca66133",
+    "username": "giulia.conti2",
+    "email": "giulia.conti2@gmail.com",
+    "display_name": "Giulia Conti",
+    "favorite_genres": [
+      "Action",
+      "Sports",
+      "RPG"
+    ],
+    "created_at": "2024-10-05"
+  },
+  {
+    "_id": "34f47e3c-7baa-4a0e-a14a-919e8fa335d1",
+    "username": "beatrice.costa1",
+    "email": "beatrice.costa1@outlook.com",
+    "display_name": "Beatrice Costa",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-12-25"
+  },
+  {
+    "_id": "0873cdc8-fed5-4ac6-bf36-790b51762449",
+    "username": "beatrice.marino",
+    "email": "beatrice.marino@hotmail.com",
+    "display_name": "Beatrice Marino",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-06-22"
+  },
+  {
+    "_id": "f1fe2c65-c13f-415c-b075-5e8b6ed3709d",
+    "username": "elena.rinaldi1",
+    "email": "elena.rinaldi1@example.com",
+    "display_name": "Elena Rinaldi",
+    "favorite_genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "created_at": "2024-09-08"
+  },
+  {
+    "_id": "a0bb0a0b-4dae-418c-a1c3-5bafcaaec66a",
+    "username": "chiara.moretti1",
+    "email": "chiara.moretti1@outlook.com",
+    "display_name": "Chiara Moretti",
+    "favorite_genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "created_at": "2024-05-25"
+  },
+  {
+    "_id": "94c8e219-d9c1-412c-ac43-7b7529167b26",
+    "username": "simone.barbieri1",
+    "email": "simone.barbieri1@example.com",
+    "display_name": "Simone Barbieri",
+    "favorite_genres": [
+      "RPG",
+      "Indie"
+    ],
+    "created_at": "2024-04-26"
+  },
+  {
+    "_id": "22bb9492-70d2-4df4-8831-ea69f881e91c",
+    "username": "beatrice.ricci",
+    "email": "beatrice.ricci@yahoo.com",
+    "display_name": "Beatrice Ricci",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-06-18"
+  },
+  {
+    "_id": "eccbb033-5689-4225-9e82-cb1ede879527",
+    "username": "sara.barbieri",
+    "email": "sara.barbieri@gmail.com",
+    "display_name": "Sara Barbieri",
+    "favorite_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-03-09"
+  },
+  {
+    "_id": "b6b80635-b92c-4b23-9220-c6e8646fc437",
+    "username": "andrea.barbieri1",
+    "email": "andrea.barbieri1@outlook.com",
+    "display_name": "Andrea Barbieri",
+    "favorite_genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "created_at": "2024-08-12"
+  },
+  {
+    "_id": "1f2d8e83-e3db-46a4-87cc-f6c45e7f24ea",
+    "username": "luca.giordano",
+    "email": "luca.giordano@gmail.com",
+    "display_name": "Luca Giordano",
+    "favorite_genres": [
+      "Sports",
+      "Adventure"
+    ],
+    "created_at": "2024-07-03"
+  },
+  {
+    "_id": "6dfb05d8-92fd-407a-a51a-8d89165b84cc",
+    "username": "francesca.bruno",
+    "email": "francesca.bruno@gmail.com",
+    "display_name": "Francesca Bruno",
+    "favorite_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "created_at": "2024-12-21"
+  },
+  {
+    "_id": "d1609a2f-c369-4306-960c-1a3c298ee556",
+    "username": "matteo.ricci1",
+    "email": "matteo.ricci1@outlook.com",
+    "display_name": "Matteo Ricci",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-08-23"
+  },
+  {
+    "_id": "cc042244-126e-4a42-a3d3-3cadfb1c4d26",
+    "username": "alessandro.moretti1",
+    "email": "alessandro.moretti1@hotmail.com",
+    "display_name": "Alessandro Moretti",
+    "favorite_genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "created_at": "2024-05-07"
+  },
+  {
+    "_id": "4c819816-4d6f-4a2a-a24f-dc27e85ea1ee",
+    "username": "alessandro.lombardi",
+    "email": "alessandro.lombardi@example.com",
+    "display_name": "Alessandro Lombardi",
+    "favorite_genres": [
+      "Indie",
+      "Action",
+      "RPG"
+    ],
+    "created_at": "2024-04-10"
+  },
+  {
+    "_id": "41c9d9c6-8760-4fc7-b6ec-edb8a4b17f6b",
+    "username": "sara.bianchi",
+    "email": "sara.bianchi@outlook.com",
+    "display_name": "Sara Bianchi",
+    "favorite_genres": [
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-02-27"
+  },
+  {
+    "_id": "8b8ac905-6a7e-41a3-a57c-66fbe126565f",
+    "username": "sofia.esposito",
+    "email": "sofia.esposito@example.com",
+    "display_name": "Sofia Esposito",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-12-05"
+  },
+  {
+    "_id": "d91e512c-3fef-4ef7-b6f3-393e0813f8d2",
+    "username": "chiara.giordano",
+    "email": "chiara.giordano@gmail.com",
+    "display_name": "Chiara Giordano",
+    "favorite_genres": [
+      "Sports",
+      "Adventure",
+      "Strategy"
+    ],
+    "created_at": "2024-07-06"
+  },
+  {
+    "_id": "79506997-6197-4805-a4a4-bce57ec92818",
+    "username": "giulia.barbieri",
+    "email": "giulia.barbieri@yahoo.com",
+    "display_name": "Giulia Barbieri",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-07-28"
+  },
+  {
+    "_id": "4db8a1bf-c196-4018-8757-a7bc0f37ef8e",
+    "username": "sofia.bianchi",
+    "email": "sofia.bianchi@hotmail.com",
+    "display_name": "Sofia Bianchi",
+    "favorite_genres": [
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-01-12"
+  },
+  {
+    "_id": "1f8edb1b-eae4-44b8-b3fc-b9e7d51beb03",
+    "username": "giulia.mancini",
+    "email": "giulia.mancini@outlook.com",
+    "display_name": "Giulia Mancini",
+    "favorite_genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "created_at": "2024-12-25"
+  },
+  {
+    "_id": "9bbe2d68-6ca9-4afc-ab7f-862f62e65e25",
+    "username": "matteo.ricci2",
+    "email": "matteo.ricci2@gmail.com",
+    "display_name": "Matteo Ricci",
+    "favorite_genres": [
+      "Sports",
+      "Indie"
+    ],
+    "created_at": "2024-11-06"
+  },
+  {
+    "_id": "ae864528-3a28-46f3-a462-fc3f21f60a75",
+    "username": "andrea.moretti",
+    "email": "andrea.moretti@outlook.com",
+    "display_name": "Andrea Moretti",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-12-25"
+  },
+  {
+    "_id": "d16ff782-a9b2-4436-aaaa-dce0265ca21a",
+    "username": "andrea.bianchi",
+    "email": "andrea.bianchi@yahoo.com",
+    "display_name": "Andrea Bianchi",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-04-02"
+  },
+  {
+    "_id": "b7437a27-a2b8-4559-af47-f0a0f7874361",
+    "username": "matteo.conti",
+    "email": "matteo.conti@example.com",
+    "display_name": "Matteo Conti",
+    "favorite_genres": [
+      "Casual",
+      "RPG"
+    ],
+    "created_at": "2024-01-25"
+  },
+  {
+    "_id": "7688b1bb-a687-4152-92ae-5203cd7a6a10",
+    "username": "davide.conti1",
+    "email": "davide.conti1@yahoo.com",
+    "display_name": "Davide Conti",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-05-04"
+  },
+  {
+    "_id": "4b849b03-1010-4b09-9973-e68b6ed1675b",
+    "username": "francesca.giordano",
+    "email": "francesca.giordano@hotmail.com",
+    "display_name": "Francesca Giordano",
+    "favorite_genres": [
+      "Casual",
+      "Simulation",
+      "RPG"
+    ],
+    "created_at": "2024-03-16"
+  },
+  {
+    "_id": "f83410fc-daa5-4865-8d9e-700c30d83131",
+    "username": "sofia.mancini1",
+    "email": "sofia.mancini1@example.com",
+    "display_name": "Sofia Mancini",
+    "favorite_genres": [
+      "Adventure",
+      "Sports"
+    ],
+    "created_at": "2024-07-03"
+  },
+  {
+    "_id": "6bf93e0a-733d-491a-bfea-29d5a88bf1ac",
+    "username": "valentina.esposito",
+    "email": "valentina.esposito@outlook.com",
+    "display_name": "Valentina Esposito",
+    "favorite_genres": [
+      "Strategy",
+      "RPG",
+      "Action"
+    ],
+    "created_at": "2024-02-11"
+  },
+  {
+    "_id": "e638c440-4d2a-45bc-bd6a-f49a07654553",
+    "username": "chiara.conti",
+    "email": "chiara.conti@hotmail.com",
+    "display_name": "Chiara Conti",
+    "favorite_genres": [
+      "Indie",
+      "Adventure",
+      "Sports"
+    ],
+    "created_at": "2024-08-12"
+  },
+  {
+    "_id": "ef61f700-8d44-4026-b4f6-0c3a77cd2cfb",
+    "username": "andrea.bianchi1",
+    "email": "andrea.bianchi1@yahoo.com",
+    "display_name": "Andrea Bianchi",
+    "favorite_genres": [
+      "Indie",
+      "RPG",
+      "Sports"
+    ],
+    "created_at": "2024-01-03"
+  },
+  {
+    "_id": "3eff6aac-e689-42f9-b77a-ddb91edb2b8e",
+    "username": "simone.mancini",
+    "email": "simone.mancini@example.com",
+    "display_name": "Simone Mancini",
+    "favorite_genres": [
+      "RPG",
+      "Action",
+      "Adventure"
+    ],
+    "created_at": "2024-10-22"
+  },
+  {
+    "_id": "f30b1ac5-87b2-4118-b54f-6894b0fb9b05",
+    "username": "andrea.bianchi2",
+    "email": "andrea.bianchi2@outlook.com",
+    "display_name": "Andrea Bianchi",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-11-12"
+  },
+  {
+    "_id": "f5a13361-02ec-4c2f-ae67-4d8a57ae8a15",
+    "username": "francesca.costa",
+    "email": "francesca.costa@example.com",
+    "display_name": "Francesca Costa",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-11-15"
+  },
+  {
+    "_id": "e3bad39a-8a1f-4d6f-8e50-85e90eb8eb10",
+    "username": "francesca.mancini1",
+    "email": "francesca.mancini1@hotmail.com",
+    "display_name": "Francesca Mancini",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-09-12"
+  },
+  {
+    "_id": "c05592fd-cd4e-49b0-a8ce-225b51cb9e75",
+    "username": "simone.deluca1",
+    "email": "simone.deluca1@yahoo.com",
+    "display_name": "Simone De Luca",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-01-24"
+  },
+  {
+    "_id": "41d63324-a736-41a5-8021-23a2d4bf89dc",
+    "username": "martina.moretti",
+    "email": "martina.moretti@example.com",
+    "display_name": "Martina Moretti",
+    "favorite_genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "created_at": "2024-05-23"
+  },
+  {
+    "_id": "6d18153f-2344-4e71-a3f5-b343367ab5dd",
+    "username": "andrea.greco",
+    "email": "andrea.greco@example.com",
+    "display_name": "Andrea Greco",
+    "favorite_genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "created_at": "2024-02-05"
+  },
+  {
+    "_id": "0a28fac1-55fd-4907-9a04-050c9e5ff016",
+    "username": "giulia.rinaldi1",
+    "email": "giulia.rinaldi1@outlook.com",
+    "display_name": "Giulia Rinaldi",
+    "favorite_genres": [
+      "Casual",
+      "Action",
+      "Sports"
+    ],
+    "created_at": "2024-06-22"
+  },
+  {
+    "_id": "6e32aea5-3bab-44fb-b32e-a0774aba4304",
+    "username": "francesca.romano2",
+    "email": "francesca.romano2@example.com",
+    "display_name": "Francesca Romano",
+    "favorite_genres": [
+      "Strategy",
+      "RPG",
+      "Adventure"
+    ],
+    "created_at": "2024-12-23"
+  },
+  {
+    "_id": "8dc8c858-0ff2-4a09-8ecf-53b609c4ef6c",
+    "username": "martina.mancini",
+    "email": "martina.mancini@example.com",
+    "display_name": "Martina Mancini",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-04-26"
+  },
+  {
+    "_id": "5c2c4b80-c4f0-46a7-8ccb-61d99d15461a",
+    "username": "alessandro.bruno",
+    "email": "alessandro.bruno@hotmail.com",
+    "display_name": "Alessandro Bruno",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-09-19"
+  },
+  {
+    "_id": "63a77e31-dd06-4de3-86be-0e4ca639bbaa",
+    "username": "francesca.rinaldi",
+    "email": "francesca.rinaldi@example.com",
+    "display_name": "Francesca Rinaldi",
+    "favorite_genres": [
+      "Adventure"
+    ],
+    "created_at": "2024-02-10"
+  },
+  {
+    "_id": "3ee95c18-b715-4961-a278-f95447f37cd9",
+    "username": "simone.moretti",
+    "email": "simone.moretti@example.com",
+    "display_name": "Simone Moretti",
+    "favorite_genres": [
+      "Indie",
+      "Casual"
+    ],
+    "created_at": "2024-10-03"
+  },
+  {
+    "_id": "2cf6a22f-5ac8-4b10-9fed-ca9445b93e7c",
+    "username": "alessandro.deluca",
+    "email": "alessandro.deluca@gmail.com",
+    "display_name": "Alessandro De Luca",
+    "favorite_genres": [
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-09-12"
+  },
+  {
+    "_id": "3109e07f-0e1a-41f0-b892-1b61b8e25e8e",
+    "username": "alessandro.lombardi1",
+    "email": "alessandro.lombardi1@example.com",
+    "display_name": "Alessandro Lombardi",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-07-17"
+  },
+  {
+    "_id": "bbe1bcd3-5e1a-4477-8c01-b68cf82445ad",
+    "username": "marco.colombo1",
+    "email": "marco.colombo1@example.com",
+    "display_name": "Marco Colombo",
+    "favorite_genres": [
+      "Strategy"
+    ],
+    "created_at": "2024-03-06"
+  },
+  {
+    "_id": "fc8aaa88-e921-4fc8-b3b3-918686a7bea0",
+    "username": "matteo.bruno1",
+    "email": "matteo.bruno1@yahoo.com",
+    "display_name": "Matteo Bruno",
+    "favorite_genres": [
+      "Strategy",
+      "Indie",
+      "Action"
+    ],
+    "created_at": "2024-05-07"
+  },
+  {
+    "_id": "e1b80cc7-6c26-4ee5-b56b-7af56d91a98b",
+    "username": "alice.gallo1",
+    "email": "alice.gallo1@outlook.com",
+    "display_name": "Alice Gallo",
+    "favorite_genres": [
+      "Strategy",
+      "Casual",
+      "Indie"
+    ],
+    "created_at": "2024-02-17"
+  },
+  {
+    "_id": "c393edae-17b5-4c27-ae67-3349fdff1f47",
+    "username": "martina.ferrari",
+    "email": "martina.ferrari@example.com",
+    "display_name": "Martina Ferrari",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-11-20"
+  },
+  {
+    "_id": "f90ce118-5238-46f0-8c14-cc04127faca3",
+    "username": "beatrice.deluca3",
+    "email": "beatrice.deluca3@example.com",
+    "display_name": "Beatrice De Luca",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-02-02"
+  },
+  {
+    "_id": "9ba9df7c-c6ab-499f-a04e-b02b3b927c3d",
+    "username": "stefano.gallo",
+    "email": "stefano.gallo@outlook.com",
+    "display_name": "Stefano Gallo",
+    "favorite_genres": [
+      "Indie",
+      "Strategy",
+      "Sports"
+    ],
+    "created_at": "2024-01-16"
+  },
+  {
+    "_id": "6c8adaa2-5e1b-4fe1-b708-6d37e480fdf6",
+    "username": "alice.conti",
+    "email": "alice.conti@yahoo.com",
+    "display_name": "Alice Conti",
+    "favorite_genres": [
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-11-13"
+  },
+  {
+    "_id": "aa25be88-85fa-4d5e-85fa-36ac881aedc4",
+    "username": "chiara.rinaldi",
+    "email": "chiara.rinaldi@gmail.com",
+    "display_name": "Chiara Rinaldi",
+    "favorite_genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "created_at": "2024-07-16"
+  },
+  {
+    "_id": "be165945-78ca-4d0f-8d1f-48cb3d77932e",
+    "username": "andrea.greco1",
+    "email": "andrea.greco1@yahoo.com",
+    "display_name": "Andrea Greco",
+    "favorite_genres": [
+      "RPG",
+      "Casual",
+      "Sports"
+    ],
+    "created_at": "2024-06-24"
+  },
+  {
+    "_id": "45c761c3-bb54-4071-a2de-df175809bef4",
+    "username": "francesca.costa1",
+    "email": "francesca.costa1@outlook.com",
+    "display_name": "Francesca Costa",
+    "favorite_genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "created_at": "2024-04-15"
+  },
+  {
+    "_id": "878f02a4-a06c-42e2-8467-cbdd3e9c059c",
+    "username": "sara.gallo",
+    "email": "sara.gallo@hotmail.com",
+    "display_name": "Sara Gallo",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-02-02"
+  },
+  {
+    "_id": "ae932381-b453-492a-ab07-5b11d4af9f23",
+    "username": "chiara.costa1",
+    "email": "chiara.costa1@example.com",
+    "display_name": "Chiara Costa",
+    "favorite_genres": [
+      "Simulation",
+      "Indie"
+    ],
+    "created_at": "2024-03-27"
+  },
+  {
+    "_id": "4697b283-efaa-4548-a3e0-2543baff7a82",
+    "username": "matteo.ferrari1",
+    "email": "matteo.ferrari1@yahoo.com",
+    "display_name": "Matteo Ferrari",
+    "favorite_genres": [
+      "RPG"
+    ],
+    "created_at": "2024-08-17"
+  },
+  {
+    "_id": "8513fd41-0774-4b15-8e00-e15d471eaec5",
+    "username": "andrea.moretti1",
+    "email": "andrea.moretti1@yahoo.com",
+    "display_name": "Andrea Moretti",
+    "favorite_genres": [
+      "Action",
+      "Casual"
+    ],
+    "created_at": "2024-07-17"
+  },
+  {
+    "_id": "7e3dabe2-398d-4d5b-bec3-113e65eb1827",
+    "username": "andrea.bruno1",
+    "email": "andrea.bruno1@outlook.com",
+    "display_name": "Andrea Bruno",
+    "favorite_genres": [
+      "Sports",
+      "Action",
+      "Indie"
+    ],
+    "created_at": "2024-05-16"
+  },
+  {
+    "_id": "14cf297e-0776-419e-b96d-4996eceebe5e",
+    "username": "beatrice.moretti",
+    "email": "beatrice.moretti@yahoo.com",
+    "display_name": "Beatrice Moretti",
+    "favorite_genres": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "created_at": "2024-07-05"
+  },
+  {
+    "_id": "007c27ee-7861-4eeb-81a0-c77000947b3a",
+    "username": "federico.mancini2",
+    "email": "federico.mancini2@hotmail.com",
+    "display_name": "Federico Mancini",
+    "favorite_genres": [
+      "Action",
+      "Simulation"
+    ],
+    "created_at": "2024-01-19"
+  },
+  {
+    "_id": "9e62b1d4-3f39-4f06-8afa-61f402e2bcf6",
+    "username": "alice.greco2",
+    "email": "alice.greco2@yahoo.com",
+    "display_name": "Alice Greco",
+    "favorite_genres": [
+      "Strategy",
+      "Action",
+      "Simulation"
+    ],
+    "created_at": "2024-09-15"
+  },
+  {
+    "_id": "869fc653-435d-4052-8923-ad29094e6fd1",
+    "username": "alice.gallo2",
+    "email": "alice.gallo2@example.com",
+    "display_name": "Alice Gallo",
+    "favorite_genres": [
+      "Adventure",
+      "Casual",
+      "Action"
+    ],
+    "created_at": "2024-07-12"
+  },
+  {
+    "_id": "e44e75ae-066f-4199-8344-f14aed5332fd",
+    "username": "matteo.lombardi",
+    "email": "matteo.lombardi@yahoo.com",
+    "display_name": "Matteo Lombardi",
+    "favorite_genres": [
+      "Simulation"
+    ],
+    "created_at": "2024-10-17"
+  },
+  {
+    "_id": "4094a81d-1d83-4d82-b351-38b3564c84a2",
+    "username": "simone.barbieri2",
+    "email": "simone.barbieri2@gmail.com",
+    "display_name": "Simone Barbieri",
+    "favorite_genres": [
+      "Action"
+    ],
+    "created_at": "2024-03-23"
+  },
+  {
+    "_id": "dd891938-3e10-47cc-9bbd-cc299b1eedc2",
+    "username": "matteo.moretti",
+    "email": "matteo.moretti@example.com",
+    "display_name": "Matteo Moretti",
+    "favorite_genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "created_at": "2024-09-05"
+  },
+  {
+    "_id": "ff3ed109-2659-4143-87f3-88ae3dab379f",
+    "username": "matteo.esposito1",
+    "email": "matteo.esposito1@yahoo.com",
+    "display_name": "Matteo Esposito",
+    "favorite_genres": [
+      "Indie"
+    ],
+    "created_at": "2024-10-24"
+  },
+  {
+    "_id": "476ba2ed-3fa5-4694-8dcf-1c950d87ae25",
+    "username": "chiara.ferrari1",
+    "email": "chiara.ferrari1@yahoo.com",
+    "display_name": "Chiara Ferrari",
+    "favorite_genres": [
+      "Casual",
+      "Sports",
+      "Strategy"
+    ],
+    "created_at": "2024-05-16"
+  },
+  {
+    "_id": "4e8449ed-2ebb-4f25-b4f0-a7c9cf27a24b",
+    "username": "luca.mancini1",
+    "email": "luca.mancini1@yahoo.com",
+    "display_name": "Luca Mancini",
+    "favorite_genres": [
+      "Adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "created_at": "2024-05-26"
+  },
+  {
+    "_id": "284da6cb-423c-43e8-9411-114d1ccc67b2",
+    "username": "luca.esposito2",
+    "email": "luca.esposito2@hotmail.com",
+    "display_name": "Luca Esposito",
+    "favorite_genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "created_at": "2024-01-19"
+  },
+  {
+    "_id": "a0e5e8df-1b53-4ee7-8f6e-3163eb2551b4",
+    "username": "sofia.marino",
+    "email": "sofia.marino@example.com",
+    "display_name": "Sofia Marino",
+    "favorite_genres": [
+      "Indie",
+      "Adventure",
+      "Sports"
+    ],
+    "created_at": "2024-04-02"
+  },
+  {
+    "_id": "996da4be-ef00-4f5d-b462-b72ea56e2ce2",
+    "username": "stefano.colombo",
+    "email": "stefano.colombo@outlook.com",
+    "display_name": "Stefano Colombo",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-06-14"
+  },
+  {
+    "_id": "52d134b9-a568-4e48-9202-86cc8824c191",
+    "username": "alessandro.giordano2",
+    "email": "alessandro.giordano2@outlook.com",
+    "display_name": "Alessandro Giordano",
+    "favorite_genres": [
+      "Casual",
+      "Indie"
+    ],
+    "created_at": "2024-12-24"
+  },
+  {
+    "_id": "e69e3fe0-4899-47af-a559-a672dfd114c9",
+    "username": "marco.ricci",
+    "email": "marco.ricci@example.com",
+    "display_name": "Marco Ricci",
+    "favorite_genres": [
+      "Sports"
+    ],
+    "created_at": "2024-11-16"
+  },
+  {
+    "_id": "053bd3ed-1f2d-4f69-b49a-9d7147ea8ee7",
+    "username": "giorgio.costa1",
+    "email": "giorgio.costa1@yahoo.com",
+    "display_name": "Giorgio Costa",
+    "favorite_genres": [
+      "Casual"
+    ],
+    "created_at": "2024-09-11"
+  }
+]
